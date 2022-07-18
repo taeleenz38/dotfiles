@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = taekyu.lee3@gmail.com
+	name = Tae Lee
